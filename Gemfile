@@ -6,7 +6,7 @@ ruby '2.5.1'
 gem 'jquery-rails'
 
 gem 'devise'
-gem 'materialize-sass', '~> 1.0.0.rc1'
+gem 'materialize-sass', '~> 1.0.0.rc2'
 gem 'material_icons'
 gem 'cancancan'
 gem 'mini_magick'
